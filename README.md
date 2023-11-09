@@ -1,5 +1,5 @@
-# EXPERIMENT--04-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART- USING IOT DEVELOPMENT BOARD 
-## Aim: To Interface a soil moisture sensor , configure  the ADC and transfer the data through serial port usign USART  
+# EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
